@@ -7,7 +7,6 @@
    * Protect your exe's from reverse engineering
    
  # Video Guid:
- * Must Watch 
  https://user-images.githubusercontent.com/124158876/218275173-49bbf375-7a40-428b-9b30-191eaa076e6a.mp4
   
 # Disclaimer
