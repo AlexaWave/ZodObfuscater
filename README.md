@@ -1,7 +1,5 @@
 # Zod Obfuscater
  - **This is an Obfuscation tool for Encryption of Executable files to protect exe from Antivirus Dectection**
-## Password:
- * 12345
 ## Purpose of Zod Obfuscater:
    * Easy Bypassing 
    * Make files Undetectable
