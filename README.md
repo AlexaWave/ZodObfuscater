@@ -10,7 +10,7 @@
  https://user-images.githubusercontent.com/124158876/218275173-49bbf375-7a40-428b-9b30-191eaa076e6a.mp4
   
 # Disclaimer
-  * Turn Off Microsoft Defender While Using Incrypter
+  * Turn Off Microsoft Defender While Using Encrypter
       -> Because at same time antivirus continusly scaning exe and it delete your detectable exe  
 ***
 - Download and Forget Defender Detection 😃
