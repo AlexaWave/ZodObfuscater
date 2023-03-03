@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using dnlib.DotNet;
 using dnlib.DotNet.Emit;
 
-namespace Zenfuscator
+namespace Zodfuscator
 {
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
